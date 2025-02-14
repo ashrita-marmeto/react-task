@@ -1,4 +1,4 @@
-import { createContext, useContext, useEffect, useState } from "react";
+import { createContext, useContext, useState } from "react";
 import { getLocalStorage, setLocalStorage } from "../utils/storage";
 import userPfp from "../assets/user-pfp.png";
 import image1 from "../assets/image-1.jpg";
