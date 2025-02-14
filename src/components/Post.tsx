@@ -14,6 +14,7 @@ import userPfp from "../assets/user-pfp.png";
 const Post = ({
   id,
   profilePic,
+  name,
   username,
   timestamp,
   content,
